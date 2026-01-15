@@ -27,4 +27,8 @@ body{
 }
 #btn:hover{
     background-color: rgb(45, 46, 45);
+
+}
+.roteiro{
+    color: fff;
 }
